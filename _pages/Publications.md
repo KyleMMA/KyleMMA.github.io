@@ -13,7 +13,7 @@ redirect_from:
 
 # Summary of my publications
 
-
+what is the best world for us to love?
 
 ## Structural Health Monitoring
 
