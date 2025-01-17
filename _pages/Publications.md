@@ -1,14 +1,11 @@
 ---
-permalink: /
-title: "👋🏼 Hi there, I'm Pengfei!"
-excerpt: "Structural Health Monitoring"
-author_profile: false
-redirect_from: 
-  - /Publications/
-  
+layout: archive
+title: "Publications"
+permalink: /Publications/
+author_profile: true
+redirect_from:
+  - /Publications
 ---
-
-
 
 
 # Summary of my publications
