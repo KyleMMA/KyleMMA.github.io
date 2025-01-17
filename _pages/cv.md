@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae - Pengfei Ma"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-# Curriculum Vitae - Pengfei Ma
 
 ## Contact Information
 **Pengfei Ma**  
