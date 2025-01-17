@@ -11,8 +11,8 @@ main:
     url: /publications/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
 
-  - title: "Publications"
-    url: /publications/
+  - title: "MySpace"
+    url: /about/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en   
 
   # - title: "Blog Posts"
