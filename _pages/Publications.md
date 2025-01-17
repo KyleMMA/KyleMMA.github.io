@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: "👋🏼 Hi there, I'm Pengfei!"
-excerpt: "Summary of my publications"
-author_profile: true
+excerpt: "Structural Health Monitoring"
+author_profile: false
 redirect_from: 
   - /Publications/
   
