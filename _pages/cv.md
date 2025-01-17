@@ -12,9 +12,6 @@ redirect_from:
 **Pengfei Ma**  
 **Postdoctoral Fellow**  
 Missouri University of Science and Technology  
-📧 Email: [pm7m8@mst.edu](mailto:pm7m8@mst.edu)  
-📞 Phone: +1 (573) 466-1403  
-🌐 [Google Scholar](https://scholar.google.com/citations?hl=en&user=yT0SsPwAAAAJ)
 
 ---
 
