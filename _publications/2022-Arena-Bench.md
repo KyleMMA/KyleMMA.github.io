@@ -13,3 +13,18 @@ The ability to autonomously navigate safely, especially within dynamic environme
 [Download paper here](https://arxiv.org/abs/2206.05728)
 
 Recommended citation: L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.
+
+# Summary of my publications
+
+ ## Structural Health Monitoring 
+
+- Fiber optic sensors  
+- Hyperspectral sensors 
+- UAV
+
+## concrete durability
+
+- Chloride corrosion 
+- ASR
+- Sulfate 
+- Carbonation 
