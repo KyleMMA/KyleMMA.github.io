@@ -10,7 +10,6 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/Profile_pic2.png){: .align-right width="300px"}
 # Pengfei Ma
 
 **Postdoctoral Fellow**  
