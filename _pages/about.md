@@ -16,14 +16,14 @@ I am Pengfei Ma, a passionate researcher and postdoctoral fellow at Missouri Uni
 
 ### Interests
 - Bridge Engineering
-- Structural health monitoring (UAV, Remote sensing, hypersepectral imaging, Fiber optic sensors)
-- Concrete/Concrete durability (Steel corrosion, ASR (aggregates cracking)
-- Construction materials (cements, carnon-negative cements)
+- Structural Health Monitoring (UAV, Remote sensing, hypersepectral imaging, Fiber optic sensors)
+- Concrete/Concrete Durability (Steel corrosion, ASR (aggregates cracking))
+- Construction Materials (cements, carbon-negative cements, carbon capture and storage)
 
 ---
 
 ### Education
-🎓**PhD in [Civil Engineering]**, [Aug, 2019] - [Aug, 2024]  
+🎓**PhD in [Civil Engineering]**,   [Aug, 2019] - [Aug, 2024]  
   *Missouri University of Science and Technology*
 
 🎓**MSc in [Structural Engineering]**, [Sept, 2016] - [Jun, 2019]  
