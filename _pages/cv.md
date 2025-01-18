@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-## [**Pengfei Ma**](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto))
+## [**Pengfei Ma**](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
 **Postdoctoral Fellow**<br/>
 Missouri University of Science and Technology<br/>
 Dean's Distinguished Ph.D. Scholar, 2024
