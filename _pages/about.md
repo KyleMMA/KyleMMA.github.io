@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+---
+
 ## About Me
-I’m [Your Name], a [your profession, e.g., structural engineer or neuroscientist]. Since [Month Year], I work as [your role] at [your workplace].
+I’m [Your Name], a [your profession, e.g., structural engineer or neuroscientist]. Since [Month Year], I have been working as [your role] at [your workplace].
 
 I completed my [highest degree] at [institution], where I [describe your thesis or work briefly].
 
@@ -17,15 +19,16 @@ I care about [passions, e.g., sustainability, open science, reproducible researc
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; gap: 20px;">
 
-<div style="flex: 1; margin-right: 20px;">
+<div style="flex: 1;">
 
 ### Interests
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
-
+- Neuroscience
+- Neuroimaging
+- Anesthesia
+- Open Science
+- Software
 
 </div>
 
