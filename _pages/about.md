@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hi there, I'm Pengfei!"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,11 +11,7 @@ redirect_from:
 ---
 
 ## About Me
-I’m [], a [your profession, e.g., structural engineer or neuroscientist]. Since [Month Year], I have been working as [your role] at [your workplace].
-
-I completed my [highest degree] at [institution], where I [describe your thesis or work briefly].
-
-I care about [passions, e.g., sustainability, open science, reproducible research]. In my free time, you will find me [hobbies].
+I am Pengfei Ma, a passionate researcher and postdoctoral fellow at Missouri University of Science and Technology. My work focuses on tackling real-world challenges in **infrastructure resilience** and **sustainability**. I develop innovative cementitious materials, investigate structural degradations, and deploy cutting-edge sensor technologies for defect detection and health monitoring in civil infrastructure. My goal is to enhance the longevity and sustainability of infrastructure systems while ensuring safety and reliability
 
 ---
 
@@ -24,25 +20,24 @@ I care about [passions, e.g., sustainability, open science, reproducible researc
 <div style="flex: 1;">
 
 ### Interests
-- Neuroscience
-- Neuroimaging
-- Anesthesia
-- Open Science
-- Software
+- Bridge Engineering
+- Structural health monitoring (UAV, Remote sensing, hypersepectral imaging, Fiber optic sensors)
+- Concrete/Concrete durability (Steel corrosion, ASR (aggregates cracking)
+- Construction materials (cements, carnon-negative cements)
 
 </div>
 
 <div style="flex: 1;">
 
 ### Education
-**PhD in [Your Field]**, [Start Date] - [End Date]  
-*Your University*
+🎓**PhD in [Civil Engineering]**, [Aug, 2019] - [Aug, 2024]  
+  *Missouri University of Science and Technology*
 
-**MSc in [Your Field]**, [Start Date] - [End Date]  
-*Your University*
+🎓**MSc in [Structural Engineering]**, [Sept, 2016] - [Jun, 2019]  
+  *Hunan University*
 
-**Bachelor's Degree in [Your Field]**, [Start Date] - [End Date]  
-*Your University*
+🎓**Bachelor's Degree in [Civil ENgineering]**, [Sept, 2012] - [Jun, 2016]  
+  *Hunan University*
 
 </div>
 
