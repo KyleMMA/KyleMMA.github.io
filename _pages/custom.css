@@ -1,0 +1,18 @@
+/* Make images circular */
+img {
+    border-radius: 50%;
+    width: 150px;
+}
+
+/* Flexbox layout for two columns */
+div[style*="display: flex"] {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+/* Column styling */
+div[style*="flex: 1"] {
+    flex: 1;
+    margin-right: 10px;
+}
