@@ -8,71 +8,60 @@ redirect_from:
   - /about.html
 ---
 
+![Your Photo](path/to/your-photo.jpg){: style="border-radius: 50%; width: 150px;" }
 
-
-# Pengfei Ma
-
-**Postdoctoral Fellow**  
-Missouri University of Science and Technology  
-📧 Email: [pm7m8@mst.edu](mailto:pm7m8@mst.edu) | 🌐 [Google Scholar](https://scholar.google.com/citations?hl=en&user=yT0SsPwAAAAJ)
+# Your Name
+**Your Job Title**  
+[Your Institution](https://your-institution-link.com)  
+[Your Organization](https://your-organization-link.com)  
 
 ---
 
 ## About Me
+I’m [Your Name], a [your profession, e.g., structural engineer or neuroscientist]. Since [Month Year], I work as [your role] at [your workplace].
 
-I am Pengfei Ma, a passionate researcher and postdoctoral fellow at Missouri University of Science and Technology. My work focuses on tackling real-world challenges in **infrastructure resilience** and **sustainability**. I develop innovative cementitious materials, investigate structural degradations, and deploy cutting-edge sensor technologies for defect detection and health monitoring in civil infrastructure. My goal is to enhance the longevity and sustainability of infrastructure systems while ensuring safety and reliability.
+I completed my [highest degree] at [institution], where I [describe your thesis or work briefly].
 
----
-
-## Research Interests
-
-- **Sustainable and Resilient Infrastructure**: Developing low-carbon cement alternatives and advanced materials for construction and retrofitting.  
-- **Structural Health Monitoring**: Using multimodal sensors and machine learning for early defect detection and risk assessment.  
-- **Alkali-Silica Reaction (ASR)**: Investigating the mechanisms and mitigation strategies of ASR in concrete.  
-- **Remote Sensing Applications**: Detecting natural gas leaks and greenhouse gases using hyperspectral imaging and deep learning.  
+I care about [passions, e.g., sustainability, open science, reproducible research]. In my free time, you will find me [hobbies].
 
 ---
 
-## Achievements
+<div style="display: flex; justify-content: space-between;">
 
-- **Dean’s Distinguished Ph.D. Scholar Award** (2024)  
-- Published in high-impact journals like *Cement and Concrete Research* and *Environmental Science & Technology*.  
-- Developed a novel deep learning architecture for structural defect detection in bridges.  
-- Led innovative research on ASR mechanisms and chloride penetration mitigation in concrete.  
+<div style="flex: 1; margin-right: 20px;">
 
----
+### Interests
+- [Interest 1]
+- [Interest 2]
+- [Interest 3]
+- [Interest 4]
+- [Interest 5]
 
-## Featured Projects
+</div>
 
-### 1. **Hyperspectral Imaging for Structural Health Monitoring**
-- Developed prediction models to detect chloride corrosion and rebar degradation.  
-- Proposed novel machine learning frameworks for bridge defect analysis.
+<div style="flex: 1;">
 
-### 2. **Sustainable Cementitious Materials**
-- Innovated low-carbon cement alternatives with enhanced durability.  
-- Investigated carbon capture and storage capabilities in cementitious systems.
+### Education
+**PhD in [Your Field]**, [Start Date] - [End Date]  
+*Your University*
 
-### 3. **Remote Sensing for Gas Leak Detection**
-- Implemented hyperspectral and thermal imaging for early detection of gas leaks.  
-- Integrated advanced sensors on UAVs for efficient monitoring.
+**MSc in [Your Field]**, [Start Date] - [End Date]  
+*Your University*
 
----
+**Bachelor's Degree in [Your Field]**, [Start Date] - [End Date]  
+*Your University*
 
-## Teaching & Mentoring
+</div>
 
-As a course instructor for *Structural Analysis I* at Missouri S&T, I guided over 100 students in mastering structural behavior and analysis. My teaching approach combines interactive methods with rigorous assessments to foster a deeper understanding of civil engineering principles.
-
----
-
-## Let's Connect
-
-📧 Feel free to reach out via [email](mailto:pm7m8@mst.edu) for collaboration opportunities, speaking engagements, or research discussions.  
-🌐 Explore my work on [Google Scholar](https://scholar.google.com/citations?hl=en&user=yT0SsPwAAAAJ).  
-📄 [Download My CV](#).
+</div>
 
 ---
 
-*Thank you for visiting! Together, let's build a sustainable future.*
+## Contact
+- [Twitter](https://twitter.com/yourprofile)
+- [GitHub](https://github.com/yourprofile)
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+
 
 
 
