@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-## **Pengfei Ma** 
+## [**Pengfei Ma**](pages/Curriculum Vitae_Pengfei Ma.pdf)
 **Postdoctoral Fellow**<br/>
 Missouri University of Science and Technology<br/>
 Dean's Distinguished Ph.D. Scholar, 2024
