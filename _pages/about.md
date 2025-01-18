@@ -10,7 +10,6 @@ redirect_from:
 
 ---
 
-## About Me
 I am Pengfei Ma, a passionate researcher and postdoctoral fellow at Missouri University of Science and Technology. My work focuses on tackling real-world challenges in **infrastructure resilience** and **sustainability**. I develop innovative cementitious materials, investigate structural degradations, and deploy cutting-edge sensor technologies for defect detection and health monitoring in civil infrastructure. My goal is to enhance the longevity and sustainability of infrastructure systems while ensuring safety and reliability
 
 ---
