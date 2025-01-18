@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![Your Photo](path/to/your-photo.jpg){: style="border-radius: 50%; width: 150px;" }
-
-# Your Name
-**Your Job Title**  
-[Your Institution](https://your-institution-link.com)  
-[Your Organization](https://your-organization-link.com)  
-
----
-
 ## About Me
 I’m [Your Name], a [your profession, e.g., structural engineer or neuroscientist]. Since [Month Year], I work as [your role] at [your workplace].
 
@@ -34,8 +25,7 @@ I care about [passions, e.g., sustainability, open science, reproducible researc
 - [Interest 1]
 - [Interest 2]
 - [Interest 3]
-- [Interest 4]
-- [Interest 5]
+
 
 </div>
 
@@ -57,10 +47,7 @@ I care about [passions, e.g., sustainability, open science, reproducible researc
 
 ---
 
-## Contact
-- [Twitter](https://twitter.com/yourprofile)
-- [GitHub](https://github.com/yourprofile)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+
 
 
 
