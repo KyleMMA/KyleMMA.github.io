@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 ## About Me
-I’m [Your Name], a [your profession, e.g., structural engineer or neuroscientist]. Since [Month Year], I have been working as [your role] at [your workplace].
+I’m [], a [your profession, e.g., structural engineer or neuroscientist]. Since [Month Year], I have been working as [your role] at [your workplace].
 
 I completed my [highest degree] at [institution], where I [describe your thesis or work briefly].
 
