@@ -17,7 +17,6 @@ I am Pengfei Ma, a passionate researcher and postdoctoral fellow at Missouri Uni
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
 
-<div style="flex: 1;">
 
 ### Interests
 - Bridge Engineering
@@ -27,7 +26,6 @@ I am Pengfei Ma, a passionate researcher and postdoctoral fellow at Missouri Uni
 
 </div>
 
-<div style="flex: 1;">
 
 ### Education
 🎓**PhD in [Civil Engineering]**, [Aug, 2019] - [Aug, 2024]  
