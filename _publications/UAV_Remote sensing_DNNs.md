@@ -6,7 +6,7 @@ excerpt: '**_Keywords: Greenhouse gas (GHG); pipeline leak detection; hyperspect
 date: June 14, 2024
 venue: 'Environmental Science & Technology'
 paperurl: 'https://doi.org/10.1021/acs.est.4c03345'
-citation: '**Ma, P.**, Mondal, T.G., Shi, Z., Afsharmovahed, M.H., Romans, K., Li, L., Zhuo, Y. and Chen, G., 2024. Early Detection of Pipeline Natural Gas Leakage from Hyperspectral Imaging by Vegetation Indicators and Deep Neural Networks. Environmental Science & Technology.'
+citation: 'Ma, P., Mondal, T.G., Shi, Z., Afsharmovahed, M.H., Romans, K., Li, L., Zhuo, Y. and Chen, G., 2024. Early Detection of Pipeline Natural Gas Leakage from Hyperspectral Imaging by Vegetation Indicators and Deep Neural Networks. Environmental Science & Technology.'
 
 ---
 
