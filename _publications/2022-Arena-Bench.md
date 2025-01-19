@@ -1,15 +1,16 @@
 ---
-title: "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments"
+title: "Probability of detection for corrosion-induced steel mass loss using Fe–C coated LPFG sensors"
 collection: publications
 permalink: /publication/2022-Arena-Bench
 excerpt: 'The ability to autonomously navigate safely.'
-date: 2022-10-01
-venue: 'Robotics and Automation Letters (RA-L)'
-paperurl: 'https://arxiv.org/abs/2206.05728'
-citation: 'L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.'
+date: February 14, 2024
+venue: 'Structural Health Monitoring'
+paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/14759217241227229'
+citation: 'Zhuo, Y., Ma, P., Guo, C. and Chen, G., 2024. Probability of detection for corrosion-induced steel mass loss using Fe–C coated LPFG sensors. Structural Health Monitoring, p.14759217241227229.'
 ---
-The ability to autonomously navigate safely, especially within dynamic environments, is paramount for mobile robotics. In recent years, DRL approaches have shown superior performance in dynamic obstacle avoidance. However, these learning-based approaches are often developed in specially designed simulation environments and are hard to test against conventional planning approaches. Furthermore, the integration and deployment of these approaches into real robotic platforms are not yet completely solved. In this paper, we present Arena-bench, a benchmark suite to train, test, and evaluate navigation planners on different robotic platforms within 3D environments. It provides tools to design and generate highly dynamic evaluation worlds, scenarios, and tasks for autonomous navigation and is fully integrated into the robot operating system. To demonstrate the functionalities of our suite, we trained a DRL agent on our platform and compared it against a variety of existing different model-based and learning-based navigation approaches on a variety of relevant metrics. Finally, we deployed the approaches towards real robots and demonstrated the reproducibility of the results. The code is publicly available at [this http URL](https://github.com/ignc-research/arena-bench).
+The traditional probability of detection (POD) method, as described in the Department of Defense Handbook MIL-HDBK-1823A for nondestructive evaluation systems, does not take the time dependency of data collection into account. When applied to in situ sensors for the measurement of flaw sizes, such as fatigue-induced crack length and corrosion-induced mass loss, the validity and reliability of the traditional method is unknown. In this paper, the POD for in situ sensors and their associated reliability assessment for detectable flaw sizes are evaluated using a size-of-damage-at-detection (SODAD) method and a random parameter model (RPM). Although applicable to other sensors, this study is focused on long-period fiber gratings (LPFG) corrosion sensors with thin Fe–C coating. The SODAD method uses corrosion-induced mass losses when successfully detected from different sensors for the first time, while the RPM model considers the randomness and difference between mass loss datasets from different sensors. The Fe–C coated LPFG sensors were tested in 3.5 wt.% NaCl solution until the wavelength of transmission spectra did not change. The wavelength shift of 70% of the tested sensors ranged from 6 to 10 nm. Given a detection threshold of 2 nm in wavelength, the mass losses at 90% POD are 31.87%, 37.57%, and 34.00%, which are relatively consistent, and the upper-bound mass losses at 95% confidence level are 33.20%, 47.30%, and 40.83% from the traditional, SODAD, and RPM methods, respectively. In comparison with the SODAD method, the RPM method is more robust to any departure from model assumptions since significantly more data are used. For the 90% POD at 95% confidence level, the traditional method underestimated the mass loss by approximately 19%, which is unconservative in engineering applications. 
 
 [Download paper here](https://arxiv.org/abs/2206.05728)
 
-Recommended citation: L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.
+Recommended citation: Zhuo, Y., Ma, P., Guo, C. and Chen, G., 2024. Probability of detection for corrosion-induced steel mass loss using Fe–C coated LPFG sensors. Structural Health Monitoring, p.14759217241227229. https://doi.org/10.1177/14759217241227229
+
