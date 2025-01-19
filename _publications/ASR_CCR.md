@@ -6,7 +6,7 @@ excerpt: '**_Keywords: Alkali-silica reaction; Sodium and potassium; Boosting an
 date: November 2023
 venue: 'Cement and Concrete Research'
 paperurl: 'https://doi.org/10.1016/j.cemconres.2023.107293'
-citation: '**Ma, P.**, Li, J., Bai, J., Zhuo, Y., Chi, L., Zhu, Y., Shi, Z., Ma, H. and Chen, G., 2023. Effect of type and quantity of inherent alkali cations on alkali-silica reaction. Cement and Concrete Research, 173, p.107293.'
+citation: 'Ma, P., Li, J., Bai, J., Zhuo, Y., Chi, L., Zhu, Y., Shi, Z., Ma, H. and Chen, G., 2023. Effect of type and quantity of inherent alkali cations on alkali-silica reaction. Cement and Concrete Research, 173, p.107293.'
 
 
 ---
