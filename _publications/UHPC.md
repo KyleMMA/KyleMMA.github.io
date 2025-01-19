@@ -6,7 +6,7 @@ excerpt: '**_Keywords: Bridge steel girder; nondestructive inspection; corrosion
 date: June 25, 2023
 venue: 'Advances in concrete construction'
 paperurl: 'https://doi.org/10.12989/acc.2023.15.6.359'
-citation: 'Zhang, Y., Zhu, Y., **Ma, P.**, He, S. and Shao, X., 2023. Effect of ages and season temperatures on bi-surface shear behavior of HESUHPC-NSC composite. Advances in concrete construction, 15(6), pp.359-376..'
+citation: 'Zhang, Y., Zhu, Y., Ma, P., He, S. and Shao, X., 2023. Effect of ages and season temperatures on bi-surface shear behavior of HESUHPC-NSC composite. Advances in concrete construction, 15(6), pp.359-376..'
 
 
 ---
