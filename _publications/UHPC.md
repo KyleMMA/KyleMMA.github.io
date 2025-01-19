@@ -1,5 +1,4 @@
 ---
-
 title: "Effect of ages and season temperatures on bi-surface shear behavior of HESUHPC NSC composite"
 collection: publications
 permalink: /publication/UHPC
