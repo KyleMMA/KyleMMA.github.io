@@ -1,32 +1,16 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /Publications/
+permalink: /publications/
 author_profile: true
-redirect_from:
-  - /Publications
 ---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
-# Summary of my publications
+{% include base_path %}
 
-what is the best world for us to love?
-
-## Structural Health Monitoring
-
-
-
-- Fiber optic sensors
-- Hyperspectral sensors
-- UAV
-
-## concrete durability
-
-
-
-- Chloride corrosion
-- ASR
-- Sulfate
-- Carbonation
-
-Recommended citation: L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
