@@ -5,12 +5,10 @@ permalink: /publication/2022-Arena-Bench
 excerpt: 'The paper focuses on evaluating the probability of detection (POD) for corrosion-induced steel mass loss using Fe–C coated long-period fiber grating (LPFG) sensors. It introduces two novel methods—Size-of-Damage-at-Detection (SODAD) and Random Parameter Model (RPM)—to improve the reliability and accuracy of corrosion monitoring in steel structures.'
 date: February 14, 2024
 venue: 'Structural Health Monitoring'
-paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/14759217241227229'
-citation: ''
+paperurl: 'https://doi.org/10.1177/14759217241227229'
+citation: 'Zhuo, Y., Ma, P., Guo, C. and Chen, G., 2024. Probability of detection for corrosion-induced steel mass loss using Fe–C coated LPFG sensors. Structural Health Monitoring, p.14759217241227229.'
 ---
 The traditional probability of detection (POD) method, as described in the Department of Defense Handbook MIL-HDBK-1823A for nondestructive evaluation systems, does not take the time dependency of data collection into account. When applied to in situ sensors for the measurement of flaw sizes, such as fatigue-induced crack length and corrosion-induced mass loss, the validity and reliability of the traditional method is unknown. In this paper, the POD for in situ sensors and their associated reliability assessment for detectable flaw sizes are evaluated using a size-of-damage-at-detection (SODAD) method and a random parameter model (RPM). Although applicable to other sensors, this study is focused on long-period fiber gratings (LPFG) corrosion sensors with thin Fe–C coating. The SODAD method uses corrosion-induced mass losses when successfully detected from different sensors for the first time, while the RPM model considers the randomness and difference between mass loss datasets from different sensors. The Fe–C coated LPFG sensors were tested in 3.5 wt.% NaCl solution until the wavelength of transmission spectra did not change. The wavelength shift of 70% of the tested sensors ranged from 6 to 10 nm. Given a detection threshold of 2 nm in wavelength, the mass losses at 90% POD are 31.87%, 37.57%, and 34.00%, which are relatively consistent, and the upper-bound mass losses at 95% confidence level are 33.20%, 47.30%, and 40.83% from the traditional, SODAD, and RPM methods, respectively. In comparison with the SODAD method, the RPM method is more robust to any departure from model assumptions since significantly more data are used. For the 90% POD at 95% confidence level, the traditional method underestimated the mass loss by approximately 19%, which is unconservative in engineering applications. 
 
 [Download paper here](https://arxiv.org/abs/2206.05728)
-
-Recommended citation: Zhuo, Y., Ma, P., Guo, C. and Chen, G., 2024. Probability of detection for corrosion-induced steel mass loss using Fe–C coated LPFG sensors. Structural Health Monitoring, p.14759217241227229. https://doi.org/10.1177/14759217241227229
 
