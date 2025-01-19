@@ -6,9 +6,7 @@ excerpt: '**_Keywords: Alkali-silica reaction (ASR); C-S-H; Spectroscopy analysi
 date: March 14, 2024
 venue: 'Construction and Building Materials'
 paperurl: 'https://doi.org/10.1016/j.conbuildmat.2024.135207'
-citation: '**Ma, P.**, Liao, W., Zhuo, Y., Ma, H., Zhu, Y. and Chen, G., 2024. Characterization of alkali-silica reaction (ASR) products and CSH using SWIR spectroscopy for nondestructive detection of ASR. Construction and Building Materials, 416, p.135207.'
-
-
+citation: 'Ma, P., Liao, W., Zhuo, Y., Ma, H., Zhu, Y. and Chen, G., 2024. Characterization of alkali-silica reaction (ASR) products and CSH using SWIR spectroscopy for nondestructive detection of ASR. Construction and Building Materials, 416, p.135207.'
 
 ---
 
