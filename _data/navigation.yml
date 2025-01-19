@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
- #   url: /files/Curriculum Vitae_Pengfei Ma.pdf
 
-  - title: "Portfolio"
+  - title: "Research"
     url: /portfolio/
   
   - title: "Publications"
@@ -13,7 +10,11 @@ main:
 
   - title: "MySpace"
     url: /about/
-    # url: https://scholar.google.es/citations?user=xxxxxxxx=en   
+    # url: https://scholar.google.es/citations?user=xxxxxxxx=en
+
+  - title: "CV"
+    url: /cv/
+    # url: /files/Curriculum Vitae_Pengfei Ma.pdf
 
   # - title: "Blog Posts"
   #   url: /year-archive/
