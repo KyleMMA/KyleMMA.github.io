@@ -2,7 +2,7 @@
 title: "Probability of detection for corrosion-induced steel mass loss using Fe–C coated LPFG sensors"
 collection: publications
 permalink: /publication/2022-Arena-Bench
-excerpt: 'The ability to autonomously navigate safely.'
+excerpt: 'The paper focuses on evaluating the probability of detection (POD) for corrosion-induced steel mass loss using Fe–C coated long-period fiber grating (LPFG) sensors. It introduces two novel methods—Size-of-Damage-at-Detection (SODAD) and Random Parameter Model (RPM)—to improve the reliability and accuracy of corrosion monitoring in steel structures.'
 date: February 14, 2024
 venue: 'Structural Health Monitoring'
 paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/14759217241227229'
