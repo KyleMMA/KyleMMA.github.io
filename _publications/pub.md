@@ -1,7 +1,7 @@
 ---
 title: "Hyperspectral reflectance for determination of steel rebar corrosion and Cl− concentration"
 collection: publications
-permalink: /publication/pub
+permalink: /publication/Cl_CBM
 excerpt: 'The paper explores a novel method to predict steel rebar corrosion and chloride ion (Cl⁻) concentration in reinforced concrete structures using hyperspectral reflectance analysis. By correlating the reflectance intensity at a specific wavelength (2258 nm) with chloride content and corrosion probability.'
 date: March 3, 2023
 venue: 'Construction and Building Materials'
