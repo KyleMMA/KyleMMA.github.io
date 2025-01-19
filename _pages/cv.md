@@ -42,7 +42,7 @@ Tackling real-world infrastructure resilience and sustainability challenges by:
   Missouri University of Science and Technology, Rolla, MO  
   *Aug. 2019 – Aug. 2024*  
   - Dissertation: *Application of Multimodal Sensors with Visual, Thermal, and Hyperspectral Imaging in Infrastructure Inspection*  
-  - Advisor: Dr. [Genda Chen](https://scholar.google.com/citations?user=-33dfksAAAAJ&hl=en)
+  - Advisor: Dr. [Genda Chen](https://cii.mst.edu/)
 
 - **Master of Science in Structural Engineering (Bridging Engineering)**  
   Hunan University, Changsha, Hunan  
