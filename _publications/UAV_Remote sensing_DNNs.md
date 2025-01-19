@@ -13,7 +13,6 @@ citation: 'Ma, P., Mondal, T.G., Shi, Z., Afsharmovahed, M.H., Romans, K., Li, L
 Highlights: 
 
 1. Hyperspectral imaging detects biochemical changes in plants caused by methane exposure before physical symptoms appear.
-
 2. DNNs achieve high accuracy (98.2% after 3 weeks) in detecting methane-induced stress.
 3. Methane stress altered spectral reflectance patterns, increasing visible (VIS) and decreasing near-infrared (NIR) reflectance.
 
