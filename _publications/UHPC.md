@@ -1,8 +1,9 @@
 ---
+
 title: "Effect of ages and season temperatures on bi-surface shear behavior of HESUHPC-NSC composite"
 collection: publications
 permalink: /publication/UHPC
-excerpt: '**_Keywords: Bridge steel girder; nondestructive inspection; corrosion; coating degradation; spectroscopic analysis; hyperspectral imaging_** <br/>The study investigates the effect of curing age and seasonal temperatures on the bi-surface shear behavior of high-early-strength ultra-high-performance concrete (HESUHPC) and normal-strength concrete (NSC) composites. The study underscores HESUHPC's suitability for accelerated bridge construction and structural repairs under various environmental conditions'
+excerpt: '**_Keywords: Bridge steel girder; nondestructive inspection; corrosion; coating degradation; spectroscopic analysis; hyperspectral imaging_** <br/>The study investigates the effect of curing age and seasonal temperatures on the bi-surface shear behavior of high-early-strength ultra-high-performance concrete (HESUHPC) and normal-strength concrete (NSC) composites. The study underscores HESUHPC's suitability for accelerated bridge construction and structural repairs under various environmental conditions.'
 date: June 25, 2023
 venue: 'Advances in concrete construction'
 paperurl: 'https://doi.org/10.12989/acc.2023.15.6.359'
