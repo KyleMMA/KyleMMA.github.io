@@ -6,7 +6,7 @@ excerpt: '**_Keywords: Bridge steel girder; nondestructive inspection; corrosion
 date: November 2023
 venue: 'Coatings'
 paperurl: 'https://doi.org/10.3390/coatings13061008'
-citation: '**Ma, P.**, Li, J., Zhuo, Y., Jiao, P. and Chen, G., 2023. Coating condition detection and assessment on the steel girder of a bridge through hyperspectral imaging. Coatings, 13(6), p.1008.'
+citation: 'Ma, P., Li, J., Zhuo, Y., Jiao, P. and Chen, G., 2023. Coating condition detection and assessment on the steel girder of a bridge through hyperspectral imaging. Coatings, 13(6), p.1008.'
 
 
 
