@@ -6,7 +6,7 @@ excerpt: '**_Keywords: remote sensing; hyperspectral imaging; vegetation stress;
 date: March 14, 2024
 venue: 'Remote Sensing'
 paperurl: 'https://doi.org/10.3390/rs16061029'
-citation: '**Ma, P.**, Zhuo, Y., Chen, G. and Burken, J.G., 2024. Natural Gas Induced Vegetation Stress Identification and Discrimination from Hyperspectral Imaging for Pipeline Leakage Detection. Remote Sensing, 16(6), p.1029.'
+citation: 'Ma, P., Zhuo, Y., Chen, G. and Burken, J.G., 2024. Natural Gas Induced Vegetation Stress Identification and Discrimination from Hyperspectral Imaging for Pipeline Leakage Detection. Remote Sensing, 16(6), p.1029.'
 
 
 ---
