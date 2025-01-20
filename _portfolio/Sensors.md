@@ -4,7 +4,7 @@ excerpt: "**Sensors in structural health monitoring of concrete structures**
 Concrete structures are especially vulnerable to chemical attacks, which can severely undermine their strength and durability. **Chloride** infiltration, for instance, accelerates **corrosion** of steel reinforcement—leading to cracking and compromised load-bearing capacity if left unchecked. **Fiber optic sensors** provide a real-time, quantitative means to track corrosion progression, while spectroscopic analysis pinpoints chloride ingress early to identify high-risk zones. Additionally, alkali-silica reaction (ASR)—often termed **“concrete cancer”**—induces widespread microcracking and gradual strength loss. By leveraging hyperspectral sensors, ASR-affected areas become detectable at the incipient stage, enabling timely interventions that help preserve structural integrity.  
 <br/>
 <figure style='text-align: center;'>
-  <img src='/images/bridgefailure.jpg' style='width: 80%; display: block; margin: 0 auto;'>
+  <img src='/images/bridgefailure.jpg' style='width: 40%; display: block; margin: 0 auto;'>
   <figcaption>&copy; 2025 Pennsylvania Department of Transportation. All rights reserved.</figcaption>
 </figure>"
 collection: portfolio
@@ -12,7 +12,7 @@ collection: portfolio
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="text-align: center; width: 45%;">
-    <img src="/images/corrosion.jpg" alt="Image 1" style="width:100%;">
+    <img src="/images/corrosion.jpg" alt="Image 1" style="width:80%;">
     <figcaption>**Figure 1.** Steel reinforcement corrosion_spalling</figcaption>
   </figure>
   <figure style="text-align: center; width: 45%;">
