@@ -5,6 +5,7 @@ Concrete structures are especially vulnerable to chemical attacks, which can sev
 <br/>
 <figure style='text-align: center;'>
   <img src='/images/bridgefailure.jpg' style='width: 80%; display: block; margin: 0 auto;'>
+  <figcaption>&copy; 2025 Pennsylvania Department of Transportation. All rights reserved.</figcaption>
 </figure>"
 collection: portfolio
 ---
