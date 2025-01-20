@@ -12,7 +12,7 @@ collection: portfolio
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="text-align: center; width: 45%;">
-    <img src="/images/hyperspectral-cube.jpg" alt="Image 1" style="width:60%;">
+    <img src="/images/hyperspectral-cube.jpg" alt="Image 1" style="width:55%;">
     <figcaption>**Figure 1.** Hyperspectral imaging, see beyond colors</figcaption>
   </figure>
   <figure style="text-align: center; width: 45%;">
@@ -34,8 +34,8 @@ Concrete structures are especially vulnerable to chemical attacks, which can sev
    - Discussed calibration strategies for integrating hyperspectral data into existing structural health monitoring frameworks.
    - Revealed potential for combining hyperspectral findings with other sensing modalities to deliver comprehensive damage assessments.
 
-<br/><img src='/images/corrosionsensors.png'> <figcaption>**Figure 3.** Rebar corrosion monitoring by fiber optic sensors</figcaption>
-<br/><img src='/images/ASRzone.png'> <figcaption>**Figure 4.** ASR detection in concrete by hyperspeectral imaging</figcaption>
+<br/><img src='/images/corrosionsensors.png'> **Figure 3.** Rebar corrosion monitoring by fiber optic sensors.
+<br/><img src='/images/ASRzone.png'> **Figure 4.** ASR detection in concrete by hyperspeectral imaging.
 ---
 
 
