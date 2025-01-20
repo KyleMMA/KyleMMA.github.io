@@ -1,5 +1,5 @@
 ---
-title: "3D modeling for autonomous inspection with drones"
+title: "3D modeling of bridges for autonomous inspection with drones"
 excerpt: "**Routine inspection with AI-powered UVAs/Drones** TFrequent inspection of civil structures, especially bridges, is essential for safety and operational efficiency, yet traditional methods remain costly and labor-intensive. To overcome these limitations, this research proposes an AI-empowered drone platform equipped with LiDAR, thermal, and hyperspectral sensors for comprehensive inspection. By leveraging 3D modeling to optimize flight paths and minimize collision risks, the system can identify both visible and invisible defects while pinpointing their exact locations. Ultimately, this integrated approach enhances inspection accuracy, reduces costs, and improves overall structural health monitoring. <br/>
 <figure style='text-align: center;'>
   <img src='/images/Screenshot_Geo_3D.png' style='width: 50%; display: block; margin: 0 auto;'>
