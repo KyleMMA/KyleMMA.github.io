@@ -1,9 +1,10 @@
 ---
 title: "Bridge Inspection"
 excerpt: "**Bridge inspection with UVAs/Drones** The health condition of bridges is inspected by multiple modal sensors integrated into a UAV/drone for condition assessment and monitoring in responses to natural degradations and extreme events. <br/>
-<div style='overflow: hidden;'>
-  <img src='/images/bridge inspection.jpg' style='width: 40%; float: right; margin: 0 0 10px 20px;'>
-</div>"
+<figure style='text-align: center;'>
+  <img src='/images/bridge inspection.jpg' style='width: 50%; display: block; margin: 0 auto;'>
+  <figcaption>&copy; 2025 DRONITECH. All rights reserved.</figcaption>
+</figure>"
 collection: portfolio
 ---
 
