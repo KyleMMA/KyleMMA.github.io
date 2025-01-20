@@ -3,6 +3,12 @@ title: "Sensors"
 excerpt: "**Sensors in structural health monitoring of concrete structures**  
 Concrete structures are especially vulnerable to chemical attacks, which can severely undermine their strength and durability. **Chloride** infiltration, for instance, accelerates **corrosion** of steel reinforcement—leading to cracking and compromised load-bearing capacity if left unchecked. **Fiber optic sensors** provide a real-time, quantitative means to track corrosion progression, while spectroscopic analysis pinpoints chloride ingress early to identify high-risk zones. Additionally, alkali-silica reaction (ASR)—often termed **“concrete cancer”**—induces widespread microcracking and gradual strength loss. By leveraging hyperspectral sensors, ASR-affected areas become detectable at the incipient stage, enabling timely interventions that help preserve structural integrity.  
 <br/>
+<figure style='text-align: center;'>
+  <img src='/images/Screenshot_Geo_3D.png' style='width: 80%; display: block; margin: 0 auto;'>
+</figure>"
+collection: portfolio
+---
+
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="text-align: center; width: 45%;">
     <img src="/images/corrosion.jpg" alt="Image 1" style="width:100%;">
@@ -13,7 +19,6 @@ Concrete structures are especially vulnerable to chemical attacks, which can sev
     <figcaption>**Figure 2.** ASR cracking of concrete</figcaption>
   </figure>
 </div>
----
 
 Concrete structures are especially vulnerable to chemical attacks, which can severely undermine their strength and durability. **Chloride** infiltration, for instance, accelerates corrosion of steel reinforcement—leading to cracking and compromised load-bearing capacity if left unchecked. **Fiber optic sensors** provide a real-time, quantitative means to track corrosion progression. **Hyperspectral Imaging**, while spectroscopic analysis, can pinpoint chloride ingress **early** to identify high-risk zones. Additionally, alkali-silica reaction (ASR)—often termed ***“concrete cancer”***—induces widespread microcracking and gradual strength loss. By leveraging hyperspectral sensors, ASR-affected areas become detectable at the incipient stage, enabling timely interventions that help preserve structural integrity.
 
