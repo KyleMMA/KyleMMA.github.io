@@ -33,7 +33,7 @@ collection: portfolio
 
 <figure style="text-align: center;">
   <video width="80%" controls>
-    <source src="/images/DSCN7273.MP4" type="video/mp4">
+    <source src="/images/DSCN7273.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <figcaption>**Video 2:** Drone Flying</figcaption>
