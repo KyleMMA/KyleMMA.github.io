@@ -8,7 +8,7 @@ collection: portfolio
 ---
 
 
-1. **Routine bridge inspections are vital for assessing structural health, guiding maintenance, and ensuring overall infrastructure integrity. However, traditional methods can be time-consuming, expensive, and largely depend on manual, subjective evaluations—often missing hidden defects and posing safety risks. They also disrupt traffic, lack real-time data insights, and delay essential maintenance decisions. To address these challenges, this project seeks to expedite and streamline the inspection process by integrating autonomous drone-based techniques. Specifically, we propose:**
+**Routine bridge inspections are vital for assessing structural health, guiding maintenance, and ensuring overall infrastructure integrity. However, traditional methods can be time-consuming, expensive, and largely depend on manual, subjective evaluations—often missing hidden defects and posing safety risks. They also disrupt traffic, lack real-time data insights, and delay essential maintenance decisions. To address these challenges, this project seeks to expedite and streamline the inspection process by integrating autonomous drone-based techniques. Specifically, we propose:**
    1. **3D Bridge Modeling for Digital Twins**
       - Incorporate LiDAR into the drone platform to capture high-resolution 3D point clouds, creating an accurate digital twin of each bridge.
    2. **Multimodal Sensor Deployment**
