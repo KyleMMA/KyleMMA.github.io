@@ -8,8 +8,41 @@ collection: portfolio
 ---
 
 
-The health condition of steel bridge girders is inspected and monitored using hyperspectral imaging (HSI), a cutting-edge technology that provides detailed **spatial and spectral data** for **condition assessment** of both chemical- ([corrosion](https://doi.org/10.1016/j.conbuildmat.2023.130506), [coating degradation](https://doi.org/10.3390/coatings13061008), [concrete durability](https://doi.org/10.1016/j.conbuildmat.2024.135207)) and physical-relates defects ([cracks](https://ui.adsabs.harvard.edu/abs/2025arXiv250106922Z/abstract), spalling) in bridges. HSI enables **early detection** of defects, such as scratches and rust stains, and evaluates the integrity and health of bridge components in response to environmental degradation and operational wear.
+1. **Routine bridge inspections are vital for assessing structural health, guiding maintenance, and ensuring overall infrastructure integrity. However, traditional methods can be time-consuming, expensive, and largely depend on manual, subjective evaluations—often missing hidden defects and posing safety risks. They also disrupt traffic, lack real-time data insights, and delay essential maintenance decisions. To address these challenges, this project seeks to expedite and streamline the inspection process by integrating autonomous drone-based techniques. Specifically, we propose:**
+   1. **3D Bridge Modeling for Digital Twins**
+      - Incorporate LiDAR into the drone platform to capture high-resolution 3D point clouds, creating an accurate digital twin of each bridge.
+   2. **Multimodal Sensor Deployment**
+      - Equip UAVs with various sensors—such as RGB, thermal, and hyperspectral—to detect both visible and early-stage, otherwise invisible, structural degradations.
+   3. **Collision Avoidance and AI-Driven Flight Optimization**
+      - Develop algorithms to prevent drone collisions during data collection.
+      - Integrate an AI tool into the control system to leverage the 3D bridge models for designing optimal flight routes and enabling automated inspections.
 
-Through this innovative approach, I leverage advanced spectral analysis techniques, including **VNIR and SWIR spectroscopy**, to ensure reliable, **non-invasive** monitoring. This method empowers engineers with actionable insights for proactive maintenance, significantly enhancing the safety and durability of critical infrastructure.
-<br/><img src='/images/10th bridge inspection.png'>
+<br/><img src='/images/3D bridge.png'>
 
+---
+
+## Demonstration of Bridge Inspection_Videos
+
+<figure style="text-align: center;">
+  <video width="80%" controls>
+    <source src="/images/E10thBridge_Rolla - Trim.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>**Video 1:** 3D Modeling of Bridges</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <video width="80%" controls>
+    <source src="/images/DSCN7273.MP4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>**Video 2:** Drone Flying</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <video width="80%" controls>
+    <source src="/images/3DInspection - Trim.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>**Video 3:** Automated Inspections with Multimodal Sensors</figcaption>
+</figure>
