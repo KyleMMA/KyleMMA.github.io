@@ -34,7 +34,11 @@ I am Pengfei Ma, a passionate researcher and postdoctoral fellow at Missouri Uni
 
 ---
 
+### [News and updates]
 
+- **December 12, 2024**, 🎓📜Pengfei Ma received this PhD degree TODAY. Now, I earned this title **_'Dr'_**, **Dr. Ma**. 
+- **Aug 12, 2024**, 🎉Pengfei Ma has successfully completed the oral defense of his PhD dissertation, marking a significant milestone in his academic journey.
+---
 
 
 
