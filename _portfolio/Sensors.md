@@ -34,8 +34,7 @@ Concrete structures are especially vulnerable to chemical attacks, which can sev
    - Discussed calibration strategies for integrating hyperspectral data into existing structural health monitoring frameworks.
    - Revealed potential for combining hyperspectral findings with other sensing modalities to deliver comprehensive damage assessments.
 
-<br/><img src='/images/corrosionsensors.png'> **Figure 3.** Rebar corrosion monitoring by fiber optic sensors.
-
+<br/><img src='/images/corrosionsensors.png'> **Figure 3.** Rebar corrosion monitoring by fiber optic sensors.<br/>
 <br/><img src='/images/ASRzone.png'> **Figure 4.** ASR detection in concrete by hyperspeectral imaging.
 ---
 
