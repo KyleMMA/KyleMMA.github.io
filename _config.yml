@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Pengfei's Hub"
 title_separator          : "-"
-name                     : &name "Pengfei Ma"
+name                     : &name "Pengfei 'Kyle' Ma"
 description              : &description "personal description"
 url                      : https://KyleMMA.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Pengfei Ma"
   avatar           : "Profile_photoM.png"
-  bio              : "Postdoctoral Fellow with a research focus on Concrete and Structures"
-  location         : "Rolla, MO USA"
-  employer         : "Missouri S&T"
+  bio              : "Bridge engineer at Miachael Baker International with a focus on Concrete and Structures"
+  location         : "Nashville, TN USA"
+  employer         : "Miachael Baker International"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=yT0SsPwAAAAJ"
   email            : "pm7m8@mst.edu"
